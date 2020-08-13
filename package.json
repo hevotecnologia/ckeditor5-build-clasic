@@ -1,6 +1,6 @@
 {
   "name": "@hevotecnologia/ckeditor5-build-classic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
   "main": "./build/ckeditor.js",
   "files": [
